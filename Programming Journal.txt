@@ -1,0 +1,25 @@
+Use this area as your Programming Journal. Include a Journal Entry for each day, and the changes that you make to your program. There should be a minimum of 5 journal entries a week.
+
+Day 1 - 4/12/2022
+I made this file and started importing image files for all the country outlines.
+
+Day 2 - 4/13/2022
+I started making lists separating countries by their continent in the javascript file.
+
+Day 3 - 4/14/2022
+I made each function for the separate continents to randomize a country with each game.
+
+Day 4 - 4/18/2022
+I finished adding the rest of the outlines for all the countries and also updated the lists as well to include these countries.
+
+Day 5 - 4/19/2022
+I updated the picker function in order to pick a random nation from the list and display it.
+
+Day 6 - 4/20/2022
+I tried making the checker function in order to check if the user input matches with the displayed image on the screen. It implements checking if the user input matches with the strings of the correct answer. There are still some bugs that need to be fixed with it but the concept works.
+
+Day 7-8 - 4/21/2022-4/22/2022
+I struggled with how to make the caller function have a parameter and how to use this parameter to call it so I started having second doubts about my project.
+
+Day 9 - 4/25/2022
+I switched my entire language to python and created the entire program on this day. I first made a list of the specific countries and capitals that I would ask. Then I created a function that took in the users input and compared it with the actual answer and outputted a respective statement. Finally, I add a play again function that asked the user to play again or not.
